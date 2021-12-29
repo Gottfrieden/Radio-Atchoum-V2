@@ -40,6 +40,7 @@ export default function Header() {
                     </Link>
                 </ul>
             </nav>
+            
             <div className='social-bar-container'>
                 <a href=''><div className='social-icon youtube' style={{ backgroundImage:`url(${logoYoutube})` }}/></a>
                 <a href=''><div className='social-icon instagram' style={{ backgroundImage:`url(${logoInstagram})` }}/></a>
